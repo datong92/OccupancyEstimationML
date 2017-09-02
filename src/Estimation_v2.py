@@ -1,8 +1,10 @@
 '''
-Implements various methods for estimating occupancy.
+Class definitions of Hidden Markov Model (HMM) and Conditional Gaussian
+Mixture Model (CGMM) for estimating modes from hourly
+smart meter consumption data
 
 @date: Apr 14, 2016, Updated: Aug 31, 2017.
-@author: Datong Zhou
+@author: Datong Paul Zhou
 '''
 
 import math
